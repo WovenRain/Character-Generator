@@ -1,0 +1,177 @@
+{
+    "BirthPlace": "Akoros",
+    "Heritage": "Iruvia",
+    "Name": "Ashlyn Kessarin",
+    "BirthDate": "",
+    "BirthYear": 0,
+    "Age": "42",
+    "Bloodtype": "A-",
+    "Sex at Birth": "Male",
+    "Gender": "Male",
+    "Gender Conformity": "52/100",
+    "Sexuality": "Bi/pansexual, prefers Femme",
+    "Eye Colour": "Green",
+    "Height": "153",
+    "Weight": "51.9kg",
+    "Dominant Hand": "Right Handed",
+    "Employment": "Banker",
+    "Sight": "Category: 4 Blindness, presenting visual acuity worse than 1/60 with light perception",
+    "Vision Impairment": "Macular degeneration",
+    "Voice": {
+        "Speed": "Usual",
+        "Pitch": "High",
+        "Tone": "Accented"
+    },
+    "Skin Marks": [
+        "Burn on Upper Back"
+    ],
+    "Physical Distinctions": [],
+    "Parents": "Mother, Father and Step Mother",
+    "Siblings": [
+        "Older Brother",
+        "Younger Brother",
+        "Twin Sister"
+    ],
+    "Phobias": [
+        "Hemophobia; Fear of blood",
+        "Arachibutyrophobia; Fear of peanut butter",
+        "Dentophobia; Fear of dentists",
+        "Anemophobia; Fear of air",
+        "Verminophobia; Fear of germs"
+    ],
+    "Formative Traumas": [
+        "Traffic Accident",
+        "Neglect",
+        "Kidnapping",
+        "Sexual abuse",
+        "Home Accident"
+    ],
+    "Family Status": "Unknown",
+    "Economic Status": "Middle Class",
+    "Criminal Record": [
+        "Drug Dealing",
+        "ABH"
+    ],
+    "Natural Hair": {
+        "Colour": "Black",
+        "Type": "Naturally Wavy",
+        "Texture": "Thick/Coarse Hair"
+    },
+    "Hair Length": "Chin",
+    "Core Skills": [
+        "resilience",
+        "assertiveness"
+    ],
+    "Core Weakness": "problem-solving",
+    "Philosophical Influences/Interests": [
+        "Physicalism",
+        "Transcendental idealism",
+        "Collegium Conimbricense",
+        "Virtue ethics",
+        "Marxism–Leninism",
+        "Post-structuralism"
+    ],
+    "Personality Traits": {
+        "Hopefulness": "Not at all, 2/100",
+        "Hardworking": "Very little, 29/100",
+        "Kindness": "Not at all, 7/100",
+        "Egotistical": "Considerably, 69/100",
+        "Selfish": "Fairly, 46/100",
+        "Active": "Really very, 83/100",
+        "Cheerful": "Very, 71/100",
+        "Violent": "Not at all, 6/100",
+        "Humorous": "A Little, 30/100",
+        "Expressive": "Very, 77/100",
+        "Curiosity": "A Little, 33/100"
+    },
+    "Fighting Style": [
+        "Kung-fu",
+        "Taekwondo"
+    ],
+    "Educational Interests": [
+        "Listless"
+    ],
+    "Languages": [
+        "Native Language"
+    ],
+    "Pets": [],
+    "Hobbies": [
+        "Rubik's Cube",
+        "Boxing",
+        "Weaving",
+        "Skipping rope"
+    ],
+    "Favourite Words": [
+        "nylon",
+        "gen",
+        "hospital",
+        "nil",
+        "newport",
+        "creator",
+        "headed",
+        "silly",
+        "coffee",
+        "mj",
+        "challenges",
+        "spectacular",
+        "talked",
+        "myself",
+        "architect",
+        "today",
+        "sprint",
+        "dust",
+        "merchant",
+        "and",
+        "nonprofit",
+        "subscriber",
+        "filters",
+        "meta"
+    ],
+    "Tattoos": [],
+    "Alias": "Song",
+    "Clothes": [
+        "Eelskin Bodysuit",
+        "Tall Boots",
+        "Skirt & Blouse"
+    ],
+    "Looks": "Lovely",
+    "Goals": "Wealth",
+    "Preferred Methods": [
+        "Violence"
+    ],
+    "Traits": [
+        "Elitist",
+        "Sophisticated",
+        "Savage"
+    ],
+    "Quirk": "Has chronic illness that requires frequent care.",
+    "Interests": "Church of Ecstasy",
+    "Vice": "Faith",
+    "Playbook": "Lurk",
+    "Attributes": {
+        "Hunt": 0,
+        "Study": 0,
+        "Survey": 0,
+        "Tinker": 0,
+        "Attune": 2,
+        "Command": 0,
+        "Consort": 0,
+        "Sway": 0,
+        "Finesse": 2,
+        "Prowl": 2,
+        "Skirmish": 1,
+        "Wreck": 0
+    },
+    "HeritageBuff": [
+        "Iruvia",
+        "Finesse"
+    ],
+    "Background": [
+        "Law",
+        "Attune"
+    ],
+    "Chosen Buff": [
+        "Skirmish",
+        "Attune"
+    ]
+}

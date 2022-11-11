@@ -1,0 +1,114 @@
+-- Experience           - What's happened to them, out of their control
+- Family Name
+    https://en.wikipedia.org/wiki/Lists_of_most_common_surnames
+    https://en.wiktionary.org/wiki/Category:Surnames
+- Birthdate
+    dd/mm/yyyy, age in current year
+- Birthplace
+    world/country/city/town - just country for now
+- Race/Heritage
+    Country of origin
+- Bloodtype
+    A/B/AB/O, -/+
+- Sex
+    m/f/i
+- Gender
+    Cis/trans spectrum
+- Sexuality
+    m/f/a spectrum
+- Handedness
+    l/r/ambi
+- Employment
+    Jobs up until current year
+- Type of voice
+    Speed, tone, pitch, quirks
+- Sight Impairments
+    Any? https://en.wikipedia.org/wiki/Visual_impairment
+- Other Sense Impairments
+    Any? Lesser/Confused/Noisy/No : Hearing/Taste/Smell/Touch
+- Skin Marks
+    Scars/Burns/Birthmarks : Bodypart
+- Physical Distinctions
+    big/small/strong/weak/missing : Bodypart
+- Height
+    variance from mean of population at age - over 18 for now
+    https://ourworldindata.org/human-height
+- Weight
+    variance from mean of population at age - over 18 for now
+    https://en.wikipedia.org/wiki/Human_body_weight
+- Relationships (behaviors)
+    Partner, Family, --- TODO: Friends, Colleagues, Rivals
+- Fears
+    https://www.verywellmind.com/list-of-phobias-2795453
+- Formative Experiences
+    Traumas
+- Status/Economics
+    Poverty/Poor/Middle/Well Off/Wealthy/Rich/Ultra Rich Spectrum, Known/Unknown Family Name
+- Criminal Record
+    Clean? Group/individual? How violent?
+- Abilities/Talents/Natural Strengths
+- Other Medical History
+
+
+-- Personality          - Chosen, or refined over a lifetime
+- Name
+- Nickname
+    Adjective/noun/verb?
+- Resides
+    Near birthplace? - just country
+- Hair Style/Length
+    https://www.onychair.com/different-types-of-hair-textures-natural-hair-types
+    Long/Short, Curly/Straight
+- Hair Colour
+    natural/dyed/supernatural, Black/Brown/Blonde/Ginger spectrum
+- Eye Colour
+    natural/unnatural
+- tattoos
+    None? Visibility, Size, Subject
+- Religion
+    Atheist/Agnostic/Soft Personal/Fundamentalist/Cult
+- Philosophy
+    Personal, Acquired, conflicts, interests in Schools of Thought
+- Education
+    Any? University/Certifications/School, Self direction(Listless/varied/targeted)
+- Personality Traits Overview
+    Hopeful/Hardworking/Kind/Egotistical/Selfish/Active/Cheerful/Violent/Humorous/Expressive, spectrums
+- Skills
+    People, Technical, Literature, Language Acquisition, Physical, Other Mental(Maths, Deduction etc), 
+- Goals/Achievements
+    Personal/Renown(Societal)
+- Awards
+    Any? Placement, Area(Educational/Employment/Personal/Hobby)
+- Language(s)
+    Local only? Heritage? Acquired?
+- Fighting Skill/Style
+    Any? Boxing/Kickboxing/Karate/Wrestling/Taekwondo/Judo/Jiu-Jitsu/Kung-fu
+- Pets
+    Any? Usual/Unusual?
+- Hobbies
+- Hopes/Dreams/Aspirations
+- Sayings
+- Habits
+
+
+-- Taste                - Personal preferences
+- Music
+    Broad/specific, Genre(s)
+- Books/Magazines
+    Broad/specific, Genre(s)
+- Movies
+    Broad/specific, Genre(s)
+- Favourite Thing
+- Favourite Colour
+- Clothes
+    Status/comfort
+- Jewelry
+    Personal Importance/fashion/Status
+- Crowds/Groups
+    Loner? Clubs/Pubs/types/hobby groups/gangs/organisations
+- Food
+    How important is: Amount, Variety, Nutrition, Presentation, 
+- Drugs
+    Functional, psychedelic, mood, legality
+- Idols/Peers
+

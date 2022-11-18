@@ -43,4 +43,4 @@ class generator:
 
 if __name__ == '__main__':
     gen = generator()
-    gen.makeChar(country="Iceland", extra="BladesITD")
+    gen.makeChar(country="Ireland")#, extra="BladesITD")

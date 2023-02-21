@@ -85,23 +85,26 @@ class humanExperience:
         char["Sex at Birth"] = sex
 
         #Gender
-        g = random.randint(0, 100)
-        if g < 10:
-            if sex == "Male":
-                gender = "Female"
-            elif sex == "Female":
+        if sex == "Intersex":
+            g = random.randint(0, 100)
+            if g < 30:
                 gender = "Male"
-        elif g < 20:
-            gender = "Non-Binary"
+            elif g < 60:
+                gender = "Female"
+            else:
+                gender = "Non-Binary"
         else:
-            gender = sex
-            if sex == "Intersex":
-                if g < 30:
-                    gender = "Male"
-                elif g < 60:
+            g = random.randint(0, 100)
+            if g < 10:
+                if sex == "Male":
                     gender = "Female"
-                else: 
-                    gender = "Non-Binary"
+                elif sex == "Female":
+                    gender = "Male"
+            elif g < 20:
+                gender = "Non-Binary"
+            else:
+                gender = sex
+
         #write Gender
         char["Gender"] = gender
         char["Gender Conformity"] = str(random.randint(0,100)) + "/100"
